@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Reacd <a href="/posts/first-post">this page!</a>
+          Reacd <Link href="/posts/first-post">this page!</Link>
         </h1>
 
         <p className={styles.description}>
